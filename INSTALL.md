@@ -1,4 +1,4 @@
-### [MySQL Workbench](https://www.mysql.com/products/workbench/)
+### [`MySQL Workbench`](https://www.mysql.com/products/workbench/)
 
 #### Install using Git
 
@@ -10,7 +10,7 @@ the repo:
 #### Install manually
 
 Download using the
-[GitHub .zip download](https://github.com/dracula/mysql-workbench/archive/master.zip)
+[`GitHub .zip download`](https://github.com/dracula/mysql-workbench/archive/master.zip)
 option and unzip them.
 
 #### Activating theme
