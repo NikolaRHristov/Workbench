@@ -26,7 +26,3 @@ This theme is maintained by the following person(s) and a bunch of
     asking questions and discussing issues.
 -   [`Discord`](https://draculatheme.com/discord-invite) - Best for hanging out
     with the community.
-
-## License
-
-[`MIT License`](./LICENSE)
