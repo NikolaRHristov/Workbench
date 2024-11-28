@@ -1,16 +1,16 @@
-### [`MySQL Workbench`](https://www.mysql.com/products/workbench/)
+### [`MySQL Workbench`](HTTPS://www.mysql.com/products/workbench/)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning
 the repo:
 
-    git clone https://github.com/dracula/mysql-workbench.git
+    git clone HTTPS://github.com/dracula/mysql-workbench.git
 
 #### Install manually
 
 Download using the
-[`GitHub .zip download`](https://github.com/dracula/mysql-workbench/archive/master.zip)
+[`GitHub .zip download`](HTTPS://github.com/dracula/mysql-workbench/archive/master.zip)
 option and unzip them.
 
 #### Activating theme
