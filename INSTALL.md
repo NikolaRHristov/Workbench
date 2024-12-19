@@ -10,7 +10,7 @@ the repo:
 #### Install manually
 
 Download using the
-[`GitHub .zip download`](https://github.com/dracula/mysql-workbench/archive/master.zip)
+[`GitHub .zip download`](HTTPS://GitHub.Com/dracula/mysql-workbench/archive/master.zip)
 option and unzip them.
 
 #### Activating theme
