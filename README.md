@@ -1,6 +1,7 @@
 # Dracula for [`MySQL Workbench`](https://www.mysql.com/products/workbench/)
 
-> A dark theme for [`MySQL Workbench`](https://www.mysql.com/products/workbench/)
+> A dark theme for
+> [`MySQL Workbench`](https://www.mysql.com/products/workbench/)
 
 ![`Screenshot`](./screenshot.png)
 
@@ -16,13 +17,13 @@ This theme is maintained by the following person(s) and a bunch of
 
 | [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](HTTPS://GitHub.Com/michaelcaxias) |
 | --------------------------------------------------------------------------------------------------------------------- |
-| [`Michael Caxias`](HTTPS://GitHub.Com/michaelcaxias)                                                                    |
+| [`Michael Caxias`](HTTPS://GitHub.Com/michaelcaxias)                                                                  |
 
 ## Community
 
--   [`Twitter`](https://twitter.com/draculatheme) - Best for getting updates about
-    themes and new stuff.
--   [`GitHub`](HTTPS://GitHub.Com/dracula/dracula-theme/discussions) - Best for
-    asking questions and discussing issues.
--   [`Discord`](https://draculatheme.com/discord-invite) - Best for hanging out
-    with the community.
+- [`Twitter`](https://twitter.com/draculatheme) - Best for getting updates about
+  themes and new stuff.
+- [`GitHub`](HTTPS://GitHub.Com/dracula/dracula-theme/discussions) - Best for
+  asking questions and discussing issues.
+- [`Discord`](https://draculatheme.com/discord-invite) - Best for hanging out
+  with the community.
