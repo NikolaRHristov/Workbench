@@ -13,17 +13,17 @@ All instructions can be found at
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of
-[`awesome contributors`](HTTPS://GitHub.Com/dracula/mysql-workbench/graphs/contributors).
+[`awesome contributors`](https://GitHub.Com/dracula/mysql-workbench/graphs/contributors).
 
-| [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](HTTPS://GitHub.Com/michaelcaxias) |
+| [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](https://GitHub.Com/michaelcaxias) |
 | --------------------------------------------------------------------------------------------------------------------- |
-| [`Michael Caxias`](HTTPS://GitHub.Com/michaelcaxias)                                                                  |
+| [`Michael Caxias`](https://GitHub.Com/michaelcaxias)                                                                  |
 
 ## Community
 
 - [`Twitter`](https://twitter.com/draculatheme) - Best for getting updates about
   themes and new stuff.
-- [`GitHub`](HTTPS://GitHub.Com/dracula/dracula-theme/discussions) - Best for
+- [`GitHub`](https://GitHub.Com/dracula/dracula-theme/discussions) - Best for
   asking questions and discussing issues.
 - [`Discord`](https://draculatheme.com/discord-invite) - Best for hanging out
   with the community.
